@@ -1,6 +1,8 @@
 body{
-    margin: 0;
-    padding: 0;
+    min-width: 320px;
+    max-width: 1657px;
+    width: 100%;
+    margin: 0 auto;
 }
 .header-image{
     background-color: #E5E5E5;
